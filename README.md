@@ -4,7 +4,7 @@ Demo repository for intro to git and gethub
 
 
 notes:
-1. do somerhitng in file, save to github folder then go to gethub and use commit
+1. do something in file, save to github folder then go to gethub and use commit
 2. if you need to undo a commit go to history, right click and say "revert"
 3. how to get rid of a file or .DS_store--> right click and select ignore file, changes file to .gitignore file, then commit and git will now not track for that file
 4. if you really dont want something tracked remember to ignore right away 
