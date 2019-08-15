@@ -1,6 +1,6 @@
 first repository
  
-Demo repository for intro to git and gethub with notes and fake pages
+Demo repository for intro to git and github with notes and fake pages
 
 `Data`: fake folder
 `analysis.txt` and `notes.txt`: fake test files
